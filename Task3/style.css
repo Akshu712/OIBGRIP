@@ -1,0 +1,75 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(40, 6, 40);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: beige;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.task{
+  margin-top: 20px;
+  color: #fff;
+  font-size: 17px;
+  font-weight: bold;
+}
+.desc{
+  margin-top: 20px;
+  color: #fff;
+  font-size: 17px;
+  font-weight: bold;
+}
+#addedtasks{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* width:90%; */
+  background-color: rgb(51, 48, 48);
+  border-radius: 30px;
+  color: white;
+}
+.tasks{
+  /* width:100%; */
+  display: grid;
+  word-break: keep-all;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+  /* padding-left: 20px;*/
+  padding-right: 20px;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: white;
+  
+}
+#btn{
+  color: rgb(119, 17, 17);
+  background-color: rgb(232, 138, 224);
+  
+}
+button{
+  border-radius: 25px;
+  width:130px; 
+  height:40px;
+}
+form{
+  font-family: monospace;
+}
+input{
+  width: 50vh;
+  height: 25px;
+  margin-top: 8px;
+}
+textarea{
+  margin-top: 8px;
+}
+#blank{
+   color: white;
+}
