@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tribute Page : PM.Narendra Damodardas Modi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+                <p>"The 21st centuary is an era of knowledge. If poverty is to be abolished in this centuary, it can be abolished only through knowledge."</p>
+        </div>
+        <div class="content">
+            <section class="top_section">
+                <div class="image_container">
+                    <img src="narendra_modi.jpg.webp" alt="Narendra Modi">
+                </div>
+                <div>
+                    <h1>Narendra Damodardas Modi</h1>
+                </div>
+            </section>
+            <section class="about_section">
+                <h2>Prime Minister of India</h2>
+
+                <p><B>Narendra Damodardas Modi</B> was born to a family of grocers in a town called Vadnagar in Mehsana district of Gujarat. He was born on 17 September, 1950 to Damodardas Mulchand Modi and Heeraben Modi. Narendra Modi is the current Prime Minister of India. He represents Varanasi constituency in the Lok Sabha. He is the most prominent leader of the Bharatiya Janata Party (BJP). He is considered a master strategist for his party. He has been the Chief Minister of Gujarat for four consecutive terms.</p>
+                <p>Narendra Modi always had the utmost zeal and enthusiasm to serve and help the people in need. As a young boy, Narendra Modi offered his services voluntarily to the soldiers at the railway stations during the Indo-Pak war in 1965. He also served affected people during the 1967 Gujarat floods. Modi started working in the Gujarat State Road Transport Corporation’s staff canteen. Eventually from there he became a full-time proponent and campaigner, commonly called a 'pracharak', of the RSS. Modi later underwent training at the RSS camp in Nagpur. It is a prerequisite for any RSS member to take up the training course for holding any official position in the Sangh Parivar. Narendra Modi was given charge of the student wing, which is better known as Akhil Bharatiya Vidyarthi Parishad (ABVP). His contribution to the Anti-emergency movement impressed senior political leaders. As a result of this, he was eventually appointed the regional organiser of the newly-formed Bharatiya Janata Party in Gujarat.
+                </p>
+            </section>
+            <footer>
+                <p>
+                    Read more about Narendra Damodardas Modi on
+                    <a href="https://en.wikipedia.org/wiki/Narendra_Modi" style="color: blue;"> Wikipedia.</a>
+                </p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
